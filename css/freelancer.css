@@ -301,9 +301,10 @@ header.masthead {
 
 .text_flex {
   display: flex;
-  flex-direction: column; }
+  flex-direction: column;
+  padding-top: 10px; }
   .text_flex p:last-child {
-    margin: auto; }
+    margin-top: auto; }
 
 .floating-label-form-group {
   position: relative;

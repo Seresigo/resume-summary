@@ -137,7 +137,8 @@
 .text_flex {
 	display: flex;
 	flex-direction: column;
+	padding-top: 10px;
 		p:last-child {
-			margin:auto;
+			margin-top: auto;
 		}
 }
